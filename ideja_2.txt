@@ -1,17 +1,19 @@
 Kāds varētu būt projekta nosaukums?
-
+Ilgtermiņa plānu rakstīšana
 
 Ko projekts dara vienā teikumā?
-
+Viņš atgadina lietotaju par viū ilgtermiņa plāniem(piem. kļut par millionari, izlasīt 100 grāmatas..)
 
 Kādu problēmu šis projekts risina? (Vai tas ir rīks produktivitātei, izklaidei, datu analīze vai kas cits?)
-
+Prokrastinaciju, kad cilv;eks nezin, ko darīt
 
 Kas būs šī rīka galvenais lietotājs? (Piemēram, paši studenti, uzņēmēji, spēlētāji vai datu pētnieki)
-
+Studenti, viņiem ir vairāk spēku un motivāciju, bet citi, protams, arī var būt
 
 Kā lietotājs mijiedarbosies ar programmu (konsolē, Telegram bots, vienkāršā GUI)?
-
+telegram bot
 
 Kādas ir 3–5 galvenās funkcijas (must-have)?
-
+1) Palīdz atdalīt lielu projektu, plānu uz maziem soliem, lai to vieglāsk īstenotu
+2) Pereodiski atgadina cilvēku par plāniem
+3) Motivē cilvēku, lai viņs neguļ un dara lietas
