@@ -1,17 +1,19 @@
 Kāds varētu būt projekta nosaukums?
-
+Preces cenu uzzināšana
 
 Ko projekts dara vienā teikumā?
-
+Palīdz ātri uzzināt cenu uz kaut kādu produktu maxima
 
 Kādu problēmu šis projekts risina? (Vai tas ir rīks produktivitātei, izklaidei, datu analīze vai kas cits?)
-
+produktivitātei
 
 Kas būs šī rīka galvenais lietotājs? (Piemēram, paši studenti, uzņēmēji, spēlētāji vai datu pētnieki)
-
+pensioneri
 
 Kā lietotājs mijiedarbosies ar programmu (konsolē, Telegram bots, vienkāršā GUI)?
-
+telegram bots
 
 Kādas ir 3–5 galvenās funkcijas (must-have)?
-
+1) Ātri izmeklēt cenu par produktu serverā un uzrakstīt
+2) pēc cilvēka izvēles uzzināt cenu par produktu
+3) pal
