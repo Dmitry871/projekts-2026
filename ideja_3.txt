@@ -16,4 +16,4 @@ telegram bots
 Kādas ir 3–5 galvenās funkcijas (must-have)?
 1) Ātri izmeklēt cenu par produktu serverā un uzrakstīt
 2) pēc cilvēka izvēles uzzināt cenu par produktu
-3) pal
+3) palidz un var terzēties ar cilvēk
