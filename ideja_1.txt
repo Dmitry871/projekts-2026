@@ -1,17 +1,19 @@
 Kāds varētu būt projekta nosaukums?
-
+Grāmatu lasīšana
 
 Ko projekts dara vienā teikumā?
-
+Viņš palīdz un atgadina cilvēkam izlasīt kaut kadu daļu no grāmatas
 
 Kādu problēmu šis projekts risina? (Vai tas ir rīks produktivitātei, izklaidei, datu analīze vai kas cits?)
-
+Izklaide, mācīšana
 
 Kas būs šī rīka galvenais lietotājs? (Piemēram, paši studenti, uzņēmēji, spēlētāji vai datu pētnieki)
-
+Bērni, studenti, pieaugušie, vispār visi, kuriem ir interese grāmatās
 
 Kā lietotājs mijiedarbosies ar programmu (konsolē, Telegram bots, vienkāršā GUI)?
-
+Telegrom Bots
 
 Kādas ir 3–5 galvenās funkcijas (must-have)?
-
+1.Katru dienu atgadina, sutījot message telegramā
+2.Izsuta daļu no grāmatas(apm. 10-20 minutes izlasīšanai), lai cilvēks izlasītu
+3.Slāvēt un apbalvot cilvēku par izpildīto darbu
