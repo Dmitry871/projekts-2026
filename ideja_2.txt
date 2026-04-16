@@ -32,3 +32,10 @@ Manuprāt, ka jā, jo kods būa liels un datubāzei jabūt ļoti lielai,vispār 
 -----------------------------------------------------------------------------------------------
 Cik efektīgi un saprotami šo projektu varēs nodemonstrēt klasei un skolotājam?
 Arī došu iespeju izmantot telegram botu
+----------------------------------------------------------------------------------
+Atrast un salīdzinat vismaz divus līdzīgus jau esošus risinājumus.
+monday.com; pipedrive.com
+Analizēt esošo risinājumu priekšrocības, trūkumus un lietojamības aspektus. (uzrakstīt plusus un mīnusus)
+plusI: tas ir 'loti labi izdarīts planošanas rīks, ar iespeju mainīt diznainu un etc.. Minusi: tas nav bezmaksas
+Izveidot ekrānšaviņus lai būtu redzams kā izskatās risinājums.
+Dotu informāciju saglabāt jaunā datnē Github repozitorijā.
