@@ -17,3 +17,14 @@ Kādas ir 3–5 galvenās funkcijas (must-have)?
 1.Katru dienu atgadina, sutījot message telegramā
 2.Izsuta daļu no grāmatas(apm. 10-20 minutes izlasīšanai), lai cilvēks izlasītu
 3.Slāvēt un apbalvot cilvēku par izpildīto darbu
+
+Cik ļoti mani aizrauj šī tēma?
+Diezgan labi, jo man vienkarši grūti sākt lasīt jaunu grāmatu un programma var palīdz ar to
+
+Cik viegli ideja ir realizējama atbilstoši manam pašreizējam zināšanu līmenim? (1 — grūti, 5 — viegli)
+3-4
+Vai šī programma atrisina kādu reālu problēmu vai ir noderīga, saistoša ikdienā?
+Jā, jo ļoti daudzi vispar nēlasa nekādas grāmatas un šī programma palidzēs tevi neparslodzēt, jo viņa dod tikai mazu daļu
+Vai šī programma atbilst visiem vērtēšanas kritērijiem?
+
+Cik efektīgi un saprotami šo projektu varēs nodemonstrēt klasei un skolotājam?
