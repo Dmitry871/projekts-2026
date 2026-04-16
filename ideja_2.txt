@@ -13,6 +13,21 @@ Studenti, viņiem ir vairāk spēku un motivāciju, uzņēmeji, viņi var attist
 Kā lietotājs mijiedarbosies ar programmu (konsolē, Telegram bots, vienkāršā GUI)?
 telegram bot
 
+Funkcionālās prasības
+1.Botam jāļauj lietotājam ievadīt lielu mērķi (piemēram, “iemācīties programmēt”).
+2.Botam jāspēj sadalīt šo mērķi mazākos uzdevumos (soļos).
+3.Lietotājam jāspēj apskatīt savu uzdevumu sarakstu.
+4.Lietotājam jāspēj atzīmēt uzdevumus kā izpildītus.
+5.Botam jāspēj nosūtīt atgādinājumus par neizpildītiem uzdevumiem.
+
+Nefunkcionālās prasības
+1.Botam jāatbild lietotājam ne ilgāk kā 2 sekunžu laikā.
+2.Sistēmai jābūt pieejamai 24/7 bez būtiskiem pārtraukumiem.
+3.Lietotāja dati jāuzglabā droši (piemēram, netiek publiski pieejami).
+4.Botam jābūt vienkārši lietojamam (skaidras komandas un atbildes).
+5.Sistēmai jāspēj apkalpot vairākus lietotājus vienlaikus.
+
+
 Kādas ir 3–5 galvenās funkcijas (must-have)?
 1) Palīdz atdalīt lielu projektu, plānu uz maziem soliem, lai to vieglāsk īstenotu
 2) Pereodiski atgadina cilvēku par plāniem
