@@ -28,6 +28,7 @@ Vai šī programma atrisina kādu reālu problēmu vai ir noderīga, saistoša i
 Atrisina, programma motivē cilvēku kaut ko izdarīt un nesedēt tiktokā
 -----------------------------------------------------------------------------------------------
 Vai šī programma atbilst visiem vērtēšanas kritērijiem?
-
+Manuprāt, ka jā, jo kods būa liels un datubāzei jabūt ļoti lielai,vispār cilvēks paši papildina datubāzi, arī programma jāatgadina lietotaju katru dienu vajadzigaja laikā, un to vajag liels kods
 -----------------------------------------------------------------------------------------------
 Cik efektīgi un saprotami šo projektu varēs nodemonstrēt klasei un skolotājam?
+Arī došu iespeju izmantot telegram botu
