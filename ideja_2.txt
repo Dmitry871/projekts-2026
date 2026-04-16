@@ -2,13 +2,13 @@ Kāds varētu būt projekta nosaukums?
 Ilgtermiņa plānu rakstīšana
 
 Ko projekts dara vienā teikumā?
-Viņš atgadina lietotaju par viū ilgtermiņa plāniem(piem. kļut par millionari, izlasīt 100 grāmatas..)
+Viņš atgadina lietotaju par ilgtermiņa plāniem(piem. kļut par millionari, izlasīt 100 grāmatas..) un atdala šo uz maziem lietam, kuri viegli izpildīt
 
 Kādu problēmu šis projekts risina? (Vai tas ir rīks produktivitātei, izklaidei, datu analīze vai kas cits?)
-Prokrastinaciju, kad cilv;eks nezin, ko darīt
+Tas ir produktivitātei, lai risinātu prokrastinaciju, kad cilvēks nezin, ko darīt un pastavīgi 
 
 Kas būs šī rīka galvenais lietotājs? (Piemēram, paši studenti, uzņēmēji, spēlētāji vai datu pētnieki)
-Studenti, viņiem ir vairāk spēku un motivāciju, bet citi, protams, arī var būt
+Studenti, viņiem ir vairāk spēku un motivāciju, uzņēmeji, viņi var attistīt biznesu un bots palidzēs, bet citi, protams, arī var būt
 
 Kā lietotājs mijiedarbosies ar programmu (konsolē, Telegram bots, vienkāršā GUI)?
 telegram bot
@@ -17,3 +17,17 @@ Kādas ir 3–5 galvenās funkcijas (must-have)?
 1) Palīdz atdalīt lielu projektu, plānu uz maziem soliem, lai to vieglāsk īstenotu
 2) Pereodiski atgadina cilvēku par plāniem
 3) Motivē cilvēku, lai viņs neguļ un dara lietas
+
+Cik ļoti mani aizrauj šī tēma?
+Mani ļoti aizrauj ši tēma, jo, ar šo rīks var būtiski palidzēt īstenot manus sapņus uz realajam lietam
+-----------------------------------------------------------------------------------------------
+Cik viegli ideja ir realizējama atbilstoši manam pašreizējam zināšanu līmenim? (1 — grūti, 5 — viegli)
+4
+-----------------------------------------------------------------------------------------------
+Vai šī programma atrisina kādu reālu problēmu vai ir noderīga, saistoša ikdienā?
+Atrisina, programma motivē cilvēku kaut ko izdarīt un nesedēt tiktokā
+-----------------------------------------------------------------------------------------------
+Vai šī programma atbilst visiem vērtēšanas kritērijiem?
+
+-----------------------------------------------------------------------------------------------
+Cik efektīgi un saprotami šo projektu varēs nodemonstrēt klasei un skolotājam?
